@@ -1,1 +1,1 @@
-"# legend-of-zelda-js" 
+Original NES Legend of Zelda remake in vanilla js (WIP)
